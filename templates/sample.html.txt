@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Upload or Capture</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background: #f2f2f2;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            padding: 50px;
+        }
+        video, canvas {
+            display: block;
+            margin: 20px auto;
+            border: 2px solid #ccc;
+            border-radius: 10px;
+        }
+        .upload-box {
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+
+    <h2>Capture Photo or Upload File</h2>
+
+    <video id="video" width="320" height="240" autoplay></video>
+    <canvas id="canvas" width="320" height="240" style="display:none;"></canvas>
+
+    <button onclick="capture()">Capture Photo</button>
+
+    <form action="/upload" method="post" enctype="multipart/form-data" class="upload-box">
+        <input type="file" name="file" accept="image/*,.pdf">
+        <input type="hidden" name="capturedImage" id="capturedImage">
+        <button type="submit">Upload</button>
+    </form>
+
+    <script>
+        const video = document.getElementById('video');
+        const canvas = document.getElementById('canvas');
+        const capturedInput = document.getElementById('capturedImage');
+
+        // Access webcam
+        navigator.mediaDevices.getUserMedia({ video: true })
+            .then(stream => {
+                video.srcObject = stream;
+            })
+            .catch(err => {
+                console.error("Error accessing camera: ", err);
+            });
+
+        function capture() {
+            const context = canvas.getContext('2d');
+            context.drawImage(video, 0, 0, canvas.width, canvas.height);
+            canvas.style.display = 'block';
+            // Convert to data URL and store in hidden input
+            const dataURL = canvas.toDataURL('image/png');
+            capturedInput.value = dataURL;
+        }
+    </script>
+
+</body>
+</html>
