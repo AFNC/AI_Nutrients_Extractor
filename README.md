@@ -1,11 +1,6 @@
-# system pipeline
-This project detects the nutrition tables printed on packaged food products and extracts the nutrient information from the tables while preserving the relational property.
-It comprises of four stages:
-Table Classification
-Table Detection
-Table Structure Recognition
-Nutrition Information Extraction
+# AI Nutrients Extractor
+This project utilizes Deep Learning and Computer Vision to detect the nutrition tables printed on packaged food products, followed by extraction of nutrient information from the detected tables while preserving the relational information of the text.
 
 Demo
-https://github.com/user-attachments/assets/05be887a-a89b-427a-83f0-0dd8abbc5c87
+![demo (6)](https://github.com/user-attachments/assets/bbb65574-9786-43fd-a199-1a221f8b6679)
 
