@@ -17,7 +17,7 @@ The images below show the nutrition tables of various types, detected from produ
 !<img src="https://github.com/user-attachments/assets/b3eabf48-defb-499f-b39f-ef6dc9a82df0" width="250">
 !<img src="https://github.com/user-attachments/assets/58ee9273-bd54-4a7e-bbd1-0148ace43c36" height="300">
 !<img src="https://github.com/user-attachments/assets/8bd7b4a6-19c6-4ed5-8934-1a255f018f3e" height="400">
-!<img src="https://github.com/user-attachments/assets/b477854b-32f3-4b85-a0f8-c1744c3f449d" height="270">
+!<img src="https://github.com/user-attachments/assets/b477854b-32f3-4b85-a0f8-c1744c3f449d" height="200">
 
 
 
