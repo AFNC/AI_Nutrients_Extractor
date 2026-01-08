@@ -11,13 +11,14 @@ The images below show the nutrition tables of various types, detected from produ
 ### Borderless Tables
 !<img src ="https://github.com/user-attachments/assets/1780206c-d47d-43ab-8fc8-f0216e754389" width="180">
 !<img src ="https://github.com/user-attachments/assets/a4e46af2-d5df-4633-8ad4-7787b08c022d" height="600">
-!<img src ="https://github.com/user-attachments/assets/796ca98b-c499-4bae-9855-4dca870d5b44" height="600">
-!<img src ="https://github.com/user-attachments/assets/b388cf01-8737-4364-9d78-f6295629745d" height="400">
+!<img src ="https://github.com/user-attachments/assets/f99e4cde-2f71-41e8-a8e3-d969e15a4a0a" height="250">
+!<img src ="https://github.com/user-attachments/assets/618ff5b8-92af-427a-9c7e-91e4e4f0c384" height="300">
 ### Bordered Tables
-!<img src="https://github.com/user-attachments/assets/b3eabf48-defb-499f-b39f-ef6dc9a82df0" width="250">
+!<img src="https://github.com/user-attachments/assets/aea51c3d-4ff3-4cb6-9ce2-2df0f90944d5" width="250">
 !<img src="https://github.com/user-attachments/assets/58ee9273-bd54-4a7e-bbd1-0148ace43c36" height="250">
 !<img src="https://github.com/user-attachments/assets/8bd7b4a6-19c6-4ed5-8934-1a255f018f3e" height="400">
-!<img src="https://github.com/user-attachments/assets/b477854b-32f3-4b85-a0f8-c1744c3f449d" height="250">
+!<img src="https://github.com/user-attachments/assets/4c054022-b750-4b27-9d7f-e3c86ebaf81d" height="250">
+
 
 
 
