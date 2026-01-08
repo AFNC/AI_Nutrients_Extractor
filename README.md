@@ -15,9 +15,10 @@ The images below show the nutrition tables of various types, detected from produ
 !<img src ="https://github.com/user-attachments/assets/618ff5b8-92af-427a-9c7e-91e4e4f0c384" height="300">
 ### Bordered Tables
 !<img src="https://github.com/user-attachments/assets/aea51c3d-4ff3-4cb6-9ce2-2df0f90944d5" width="250">
-!<img src="https://github.com/user-attachments/assets/58ee9273-bd54-4a7e-bbd1-0148ace43c36" height="250">
-!<img src="https://github.com/user-attachments/assets/8bd7b4a6-19c6-4ed5-8934-1a255f018f3e" height="400">
+!<img src="https://github.com/user-attachments/assets/58ee9273-bd54-4a7e-bbd1-0148ace43c36" height="350">
 !<img src="https://github.com/user-attachments/assets/4c054022-b750-4b27-9d7f-e3c86ebaf81d" height="250">
+!<img src="https://github.com/user-attachments/assets/6683419c-685e-41a1-a390-ae970183aeec" height="400">
+
 
 
 
