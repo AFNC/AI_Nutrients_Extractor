@@ -7,7 +7,7 @@ The video is a quick demo for the project in which a user is prompted to upload 
 ![30-dec-demo](https://github.com/user-attachments/assets/fe7ee545-969e-408f-bce5-83b1cd9807bd)
 
 ## Detection Output
-The images below show the nutrition tables of various types, detected from product images worldwide. The detection of nutrition tables, including tables without boundary, and skipping of any irrelevant tables, indicates a deeper understanding of features by the trained model, leading to high precision detection
+The images below show the nutrition tables of various types, detected from product images worldwide. The detection of nutrition tables, including tables without boundary, and skipping of any irrelevant tables, indicates a deeper understanding of features by the trained model, leading to high precision detection.
 ### Borderless Tables
 !<img src ="https://github.com/user-attachments/assets/1780206c-d47d-43ab-8fc8-f0216e754389" width="180">
 !<img src ="https://github.com/user-attachments/assets/a4e46af2-d5df-4633-8ad4-7787b08c022d" height="600">
